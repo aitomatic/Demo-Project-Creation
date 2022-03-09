@@ -1,0 +1,6 @@
+apiVersion: v2
+name: "Demo-Project-Creation-api"
+version: "0.0.1"
+description: API layer for Demo Project Creation
+appVersion: "0.0.1"
+type: application
